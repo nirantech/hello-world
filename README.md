@@ -8,3 +8,5 @@ update changed
 edit from remote
 
 edit from branch git
+
+edit from local to remote branch "niran feature"git 
